@@ -15,6 +15,7 @@ public class StringSplit {
 		String s= "a";
 		int compareTo = s.compareTo("b");
 		System.out.println(compareTo);
+		System.out.println("");
 		
 		
 	}

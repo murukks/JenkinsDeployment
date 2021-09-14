@@ -11,8 +11,8 @@ public class Splender extends MethodOverriding {
 	public static void main(String[] args) {
 		MethodOverriding m = new Splender();
 		
-	   Splender s = new Splender();
-	   s.bike(100);
+	 // its not possible  Splender s = new MethodOverriding();
+	   m.bike(100);
 		
 
 	}
